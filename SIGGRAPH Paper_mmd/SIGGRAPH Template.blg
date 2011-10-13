@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SIGGRAPH Template.aux
+The style file: acmsiggraph.bst
+Database file #1: template.bib
+You've used 1 entry,
+            2748 wiz_defined-function locations,
+            603 strings with 4700 characters,
+and the built_in function-call counts, 478 in all, are:
+= -- 47
+> -- 18
+< -- 0
++ -- 6
+- -- 6
+* -- 40
+:= -- 85
+add.period$ -- 4
+call.type$ -- 1
+change.case$ -- 7
+chr.to.int$ -- 1
+cite$ -- 1
+duplicate$ -- 16
+empty$ -- 39
+format.name$ -- 7
+if$ -- 96
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 1
+newline$ -- 9
+num.names$ -- 3
+pop$ -- 7
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 11
+stack$ -- 0
+substring$ -- 30
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 4
+width$ -- 2
+write$ -- 18
