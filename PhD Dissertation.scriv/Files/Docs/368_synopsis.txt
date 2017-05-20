@@ -1,5 +1,0 @@
-shadowgraphs
-augmentation
-examples kreuger
-examples Worthington
-emerging concept outline 
