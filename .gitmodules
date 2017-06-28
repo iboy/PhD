@@ -1,3 +1,6 @@
 [submodule "phd_springies_2011"]
 	path = phd_springies_2011
 	url = https://github.com/iboy/phd_springies_2011.git
+[submodule "phd_softbodies_2012"]
+	path = phd_softbodies_2012
+	url = https://github.com/iboy/phd_softbodies_2012.git
