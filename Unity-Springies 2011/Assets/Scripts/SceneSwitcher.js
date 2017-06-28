@@ -1,0 +1,1 @@
+function OnGUI () {	if (GUI.Button (Rect (10,10,150,40), "Scene 1")) {		Application.LoadLevel (0);	}	if (GUI.Button (Rect (10,55,150,40), "Scene 2")) {		Application.LoadLevel (1);	}	if (GUI.Button (Rect (10,100,150,40), "Scene 3")) {		Application.LoadLevel (2);	}	if (GUI.Button (Rect (10,145,150,40), "Scene 4")) {		Application.LoadLevel (3);	}}

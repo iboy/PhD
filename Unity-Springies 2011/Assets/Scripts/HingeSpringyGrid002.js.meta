@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e4cb975bf450f4cc4800d2e113651fca
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lineMaterial1: {fileID: 2100000, guid: eb9c8738f14834b1bac7187c612264ba, type: 2}
+  - lineMaterial2: {fileID: 2100000, guid: eb9c8738f14834b1bac7187c612264ba, type: 2}
+  - lineMaterial3: {fileID: 2100000, guid: eb9c8738f14834b1bac7187c612264ba, type: 2}
+  - object1: {instanceID: 0}
+  - object2: {instanceID: 0}
+  - object3: {instanceID: 0}
+  - frameCornersTopLeft: {instanceID: 0}
+  - frameCornersBottomLeft: {instanceID: 0}
+  - frameCornersBottomRight: {instanceID: 0}
+  - frameCornersTopRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c6914897e507c41feafc0d6f33ba37c7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lineMaterial: {instanceID: 0}
+  - object1: {instanceID: 0}
+  - object2: {instanceID: 0}
+  - object3: {instanceID: 0}
+  - object4: {instanceID: 0}
+  - object5: {instanceID: 0}
+  - frameCornersTopLeft: {instanceID: 0}
+  - frameCornersBottomLeft: {instanceID: 0}
+  - frameCornersBottomRight: {instanceID: 0}
+  - frameCornersTopRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
