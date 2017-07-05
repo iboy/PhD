@@ -4,3 +4,6 @@
 [submodule "phd_softbodies_2012"]
 	path = phd_softbodies_2012
 	url = https://github.com/iboy/phd_softbodies_2012.git
+[submodule "phd_shadowengine_004_2014"]
+	path = phd_shadowengine_004_2014
+	url = https://github.com/iboy/phd_shadowengine_004_2014.git
