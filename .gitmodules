@@ -13,3 +13,6 @@
 [submodule "phd_shadowengine_002_2012"]
 	path = phd_shadowengine_002_2012
 	url = https://github.com/iboy/phd_shadowengine_002_2012.git
+[submodule "phd_shadowengine_055_2017"]
+	path = phd_shadowengine_055_2017
+	url = https://github.com/iboy/phd_shadowengine_0055_2017.git
