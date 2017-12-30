@@ -1,6 +1,4 @@
-## Readme ##
-
-![ShadowEngineLogo](logo.png | width=304)
+![ShadowEngineLogo](logo.png)(:width="304px")
 
 # PhD #
 
