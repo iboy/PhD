@@ -1,6 +1,7 @@
 # PhD
 PhD - A master repository containing all the main Unity projects. You can read full descriptions of each by visiting each project on github.
-
+The Unity 4 projects were originally built with Unity Pro, with versions 1 through to the current release. I include the most stable and evolved releases in the PhD submission. These projects are frozen at the point of submission. Development continues.
+ 
 ## Unity Projects ##
 
 Springies 2012 [https://github.com/iboy/phd_springies_2011](https://github.com/iboy/phd_springies_2011 "Foundations - Play with spring dynamics, in combination with user interaction and rigid body objects. Created in Unity Pro 4 (2011) Updated to Unity 4.6.7")
@@ -17,7 +18,7 @@ shadow**engine** 055 2017 [https://github.com/iboy/phd_shadowengine_0055_2017](h
 
 
 ![Chinese Male Figure (Chengdu)](screenshot.png)
-Chinese male figure (Chengdu) animated in the shadow**engine**.
+The most recent addition to the shadow**engine**. A Chinese male figure (from Chengdu) animated in the shadow**engine**.
 
 Source image with permission of Annie Katsura Rollins 
 URL: [https://www.chineseshadowpuppetry.com](https://www.chineseshadowpuppetry.com "Chinese Shadow Puppetry")
