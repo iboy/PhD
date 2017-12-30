@@ -16,4 +16,7 @@ phd_shadowengine_055_2017
 
 
 ![Chinese Male Figure (Chengdu)](screenshot.png)
-Chinese Male Figure (Chengdu) in the shadow**engine**.
+Chinese male figure (Chengdu) animated in the shadow**engine**.
+
+Source image with permission of Annie Katsura Rollins 
+URL: [https://www.chineseshadowpuppetry.com](https://www.chineseshadowpuppetry.com "Chinese Shadow Puppetry")
