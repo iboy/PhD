@@ -1,4 +1,4 @@
-![ShadowEngineLogo](logo.png)(:width="304px")
+![ShadowEngineLogo](logo.png)
 
 # PhD #
 
