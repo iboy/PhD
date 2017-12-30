@@ -10,4 +10,4 @@ phd_shadowengine_004_2014
 phd_shadowengine_055_2017
 
 
-![Chinese Male Figure (Chengdu)](screenshot.jpg)
+![Chinese Male Figure (Chengdu)](screenshot.png)
