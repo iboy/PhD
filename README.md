@@ -1,7 +1,7 @@
 
-![ShadowEngineLogo](logo.png)
+##![ShadowEngineLogo](logo.png) ##
 
-# PhD #
+## PhD ##
 
 PhD - A master repository containing all the main Unity projects. You can read full descriptions of each by visiting each project on github.
 The Unity 4 projects were originally built with Unity Pro, with versions 1 through to the current release. I include the most stable and evolved releases in the PhD submission. These projects are frozen at the point of submission. Development continues.
@@ -10,7 +10,7 @@ The Unity 4 projects were originally built with Unity Pro, with versions 1 throu
 
 Springies 2012 [github.com/iboy/phd_springies_2011](https://github.com/iboy/phd_springies_2011 "Foundations - Play with spring dynamics, in combination with user interaction and rigid body objects. Created in Unity Pro 4 (2011) Updated to Unity 4.6.7")
 
-Softbodies 2012 [https://github.com/iboy/phd_softbodies_2012](https://github.com/iboy/phd_softbodies_2012 "Foundations - Play with soft body dynamics, in combination with user interaction and rigid body objects.")
+Softbodies 2012 [github.com/iboy/phd_softbodies_2012](https://github.com/iboy/phd_softbodies_2012 "Foundations - Play with soft body dynamics, in combination with user interaction and rigid body objects.")
 
 Shadow**Engine** 002: 2012 [github.com/iboy/phd_shadowengine_002_2012](https://github.com/iboy/phd_shadowengine_002_2012 "PhD Projects - ShadowEngine 002 2010-2012. Software: Unity 4.7.2 - Original multitouch iPad prototype. Figures: Karaghiozis; a Reiniger's Magic Horse;  Reiniger's female figure; Wayang Kulit (Java).")
 
