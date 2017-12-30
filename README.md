@@ -16,7 +16,7 @@ Shadow**Engine** 002: 2012 [github.com/iboy/phd_shadowengine_002_2012](https://g
 
 Shadow**Engine** 003: 2013 [github.com/iboy/phd_shadowengine_003_2013](https://github.com/iboy/phd_shadowengine_003_2013 "PhD Projects - ShadowEngine 003 - 2013 - Unity Pro 4.7.2 Project. Features: Early Billy Waters, Karagöz, UniOSC touch control, animated sets.")
 
-Shadow**Engine** 004: 2014 [github.com/iboy/phd_shadowengine_004_2014.git](https://github.com/iboy/phd_shadowengine_004_2014.git "Highlights: Your Fry, Billy Waters, IIM Karagöz, UniOSC, other FX.")
+Shadow**Engine** 004: 2014 [github.com/iboy/phd_shadowengine_004_2014](https://github.com/iboy/phd_shadowengine_004_2014.git "Highlights: Your Fry, Billy Waters, IIM Karagöz, UniOSC, other FX.")
 
 Shadow**Engine** 055: 2017 [github.com/iboy/phd_shadowengine_0055_2017](https://github.com/iboy/phd_shadowengine_0055_2017 "PhD Projects - Major redesign of UI for remote control. Also contains all the figures documented for the Movement and Control experiments.")
 
