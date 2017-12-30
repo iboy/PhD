@@ -1,4 +1,7 @@
-# PhD
+![ShadowEngineLogo](logo.png | width=304)
+
+# PhD #
+
 PhD - A master repository containing all the main Unity projects. You can read full descriptions of each by visiting each project on github.
 The Unity 4 projects were originally built with Unity Pro, with versions 1 through to the current release. I include the most stable and evolved releases in the PhD submission. These projects are frozen at the point of submission. Development continues.
  
