@@ -8,7 +8,7 @@ The Unity 4 projects were originally built with Unity Pro, with versions 1 throu
  
 ## Unity Projects ##
 
-Springies 2012 [github.com/iboy/phd_springies_2011](https://github.com/iboy/phd_springies_2011 "Foundations - Play with spring dynamics, in combination with user interaction and rigid body objects. Created in Unity Pro 4 (2011) Updated to Unity 4.6.7")
+Springies 2011 [github.com/iboy/phd_springies_2011](https://github.com/iboy/phd_springies_2011 "Foundations - Play with spring dynamics, in combination with user interaction and rigid body objects. Created in Unity Pro 4 (2011) Updated to Unity 4.6.7")
 
 Softbodies 2012 [github.com/iboy/phd_softbodies_2012](https://github.com/iboy/phd_softbodies_2012 "Foundations - Play with soft body dynamics, in combination with user interaction and rigid body objects.")
 
