@@ -1,10 +1,10 @@
 
 ## ![ShadowEngineLogo](logo.png) ##
 
-## PhD ##
+## Appendix C – Code Repositories ##
 
-PhD - A master repository containing all the main Unity projects. You can read full descriptions of each by visiting each project on github.
-The Unity 4 projects were originally built with Unity Pro, with versions 1 through to the current release. I include the most stable and evolved releases in the PhD submission. These projects are frozen at the point of submission. Development continues.
+"PhD" is a master repository containing all the main Unity projects from the doctoral submission of Ian Grant. You can read full descriptions of each by visiting each project on github.
+The Unity 4 projects were originally built with Unity Pro, with versions 1 through to the current release. I include the most stable and evolved releases in the PhD submission. These projects are frozen at the point of submission. The links above go to the frozen branches. The links below go to the master branches where development continues.
  
 ## Unity Projects ##
 
